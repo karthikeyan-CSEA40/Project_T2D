@@ -1,0 +1,15 @@
+##fileformat=VCFv4.2
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SYNTHETIC_PERSON
+1	693731	rs12238997	g	a	.	.	.	GT	0/1
+1	706368	rs55727773	g	a	.	.	.	GT	0/0
+1	721290	rs12565286	g	c	.	.	.	GT	1/1
+1	729679	rs4951859	g	c	.	.	.	GT	0/1
+1	730087	rs148120343	c	t	.	.	.	GT	0/0
+1	731718	rs142557973	c	t	.	.	.	GT	0/0
+1	741250	rs141242758	c	t	.	.	.	GT	1/1
+1	752566	rs79010578	g	a	.	.	.	GT	0/1
+1	765000	rs147999235	c	t	.	.	.	GT	0/1
+1	789123	rs12082473	g	a	.	.	.	GT	1/1
+1	801234	rs139221807	g	a	.	.	.	GT	0/0
+1	815678	rs12090487	g	a	.	.	.	GT	0/1
